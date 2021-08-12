@@ -174,7 +174,7 @@ paginate = 10
     icon = "far fa-file-alt"
     title = "Do you want to see more?"
     subtitle = "Check out our Etsy page to purchase a kit today!"
-    link_url = "https://etsy.com/shop/ExplorationCottage"
+    link_url = "https://etsy.com/shop/ExplorationCottage" 
     link_text = "See available kits"
 
 [params.clients]

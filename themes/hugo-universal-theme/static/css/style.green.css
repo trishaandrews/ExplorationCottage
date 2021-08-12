@@ -803,7 +803,7 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 30px;
   margin-bottom: 0;
   position: relative;
-  background: url('../img/IMG_0036_sq.JPG') center center repeat;
+  background: url('../img/IMG_0036_sq.resized.JPG') center center repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -1164,7 +1164,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel {
   position: relative;
-  background: url('../img/IMG_0036_sq.JPG') center center repeat;
+  background: url('../img/IMG_0036_sq.resized.JPG') center center repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
