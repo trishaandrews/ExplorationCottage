@@ -13,6 +13,8 @@
         <!-- /.col-md-4 -->
         {{ end }}
 
+
+
         <div class="col-md-4 col-sm-6">
 
             {{ if isset .Site.Params "recent_posts" }} {{ if .Site.Params.recent_posts.enable }}
@@ -41,8 +43,9 @@
             {{ end }} {{ end }}
 
         </div>
-        <!-- /.col-md-4 -->
 
+        <!-- /.col-md-4 -->
+        
         {{ if isset .Site.Params "address" }}
         <div class="col-md-4 col-sm-6">
 
@@ -55,10 +58,29 @@
             <hr class="hidden-md hidden-lg hidden-sm">
 
         </div>
+    
         <!-- /.col-md-4 -->
         {{ end }}
 
+
+        
+        <div class="col-md-4 col-sm-6">
+
+            {{ if isset .Site.Params "bottbar" }} {{ if .Site.Params.bottbar.enable }}
+            <div class="col-xs-5">
+                <div class="pull-right">
+                    {{ .Site.Params.bottbar.text | safeHTML }}
+                    {{ range .Site.Menus.bottbar.ByWeight }}
+                    <a href="{{ .URL }}" target="_blank" style="opacity: 1;">{{ .Pre }}</a>
+                    {{ end }}
+                </div>
+            </div>
+        
+        </div>
+
+        {{ end }} {{ end }}
     </div>
+    
     <!-- /.container -->
 </footer>
 
