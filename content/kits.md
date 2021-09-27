@@ -19,14 +19,15 @@ cleaners, and other items that will
 encourage sorting, patterning and sensory
 stimulation.
 
-## Ocean Explorer  
-![Ocean](../img/ocean.resized.JPG)
+## Dinosaur World 
+![Dinosaurs](../img/dinosaurs.resized.jpg)
 ##
 
-Explore the magic of the deep sea and the
-creatures that live there. Shells, sharks and
-mermaids share the spotlight in this
-imagination sparking kit.
+Travel back in time while immersed in
+sensory stimulating materials. A variety of
+kinetic sand, playdough and slime are ready
+to create a prehistoric landscape for the
+dinosaurs in this kit.
 
 ## Space Exploration
 ![Space](../img/space.resized.jpg)
@@ -40,6 +41,28 @@ rocks and a variety of “planets” create an
 amazing space scene and encourage
 scientific thinking.
 
+## Woodland Critters
+![Woodland Critters](../img/woodland.resized.jpg)
+##
+
+Spend time with the critters that make the woods their home.
+Squirrels, owls, and foxes are just a few of the adorable animals you'll meet in this seasonal sensory kit.
+There is a definite Autumn feeling to this sensory kit.
+
+## Spooky 
+![Spooky](../img/spooky.resized.JPG) 
+##
+
+Creepy creatures, slime, and haunting decorations come together in this seasonal sensory kit to create a spooky experience.
+
+## Ocean Explorer  
+![Ocean](../img/ocean.resized.JPG)
+##
+
+Explore the magic of the deep sea and the
+creatures that live there. Shells, sharks and
+mermaids share the spotlight in this
+imagination sparking kit.
 
 ## Construction Site
 ![Construction](../img/construction.resized.JPG)
@@ -61,15 +84,12 @@ super fuzzy pipe cleaners and sparkly gems;
 everything you need to create a
 comfortable home for your pets.
 
-## Dinosaur World 
-![Dinosaurs](../img/dinosaurs.resized.jpg)
+## Wild Animals
+![Wild Animals](../img/wildanimals.resized.JPG)
 ##
 
-Travel back in time while immersed in
-sensory stimulating materials. A variety of
-kinetic sand, playdough and slime are ready
-to create a prehistoric landscape for the
-dinosaurs in this kit.
+Lions, tigers, and zebras (oh my!) are an exciting part of this sensory kit;
+along with everything else you'll need to create the perfect wild environment for your animals.  
 
 ## Fairy Garden 
 ![Fairy Garden](../img/garden.resized.jpg)
@@ -97,12 +117,12 @@ intriguing items to explore.
 
 Extra special kit meant to celebrate
 celebrations. Silicone cupcake cups and
-colorful playdough wll encourage
+colorful playdough will encourage
 imaginary play while building fine motor
 skills.
 
-##  
+## 
 
-#### Check out our [Etsy page](https://etsy.com/shop/ExplorationCottage) for these kits and more!
+#### Check out our [Etsy page](https://etsy.com/shop/ExplorationCottage) to see all of the available kits!
 
 ## 

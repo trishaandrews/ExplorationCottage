@@ -135,7 +135,7 @@ paginate = 10
     formspree_action = "https://formspree.io/f/mpzklbog"
     contact_form_ajax = false
 
-    about_us = "<p>Themed sensory kits that will inspire exploration, imagination, and learning</p>"
+    about_us = "<p>Themed sensory kits that will inspire exploration, imagination, and learning through play</p>"
     copyright = "Copyright (c) 2021, Pamela Carter"
 
     # Format dates with Go's time formatting
