@@ -1,6 +1,7 @@
 +++ 
 
 title = "Kits"
+description = "Themed sensory kits that will inspire exploration, imagination, and learning through play"
 
 +++
 
@@ -96,8 +97,12 @@ intriguing items to explore.
 
 Extra special kit meant to celebrate
 celebrations. Silicone cupcake cups and
-colorful playdough with encourage
+colorful playdough wll encourage
 imaginary play while building fine motor
 skills.
+
+##  
+
+#### Check out our [Etsy page](https://etsy.com/shop/ExplorationCottage) for these kits and more!
 
 ## 
